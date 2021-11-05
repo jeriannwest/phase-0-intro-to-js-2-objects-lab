@@ -1,7 +1,7 @@
 // Write your solution in this file!
 const employee = {
-    name: "Ara",
-    streetAddress: "150 Green St"
+    name: "Sam",
+    streetAddress: "11 Broadway"
 };
 function updateEmployeeWithKeyAndValue(obj,key,value){
     return{
